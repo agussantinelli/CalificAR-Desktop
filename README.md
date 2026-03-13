@@ -33,7 +33,7 @@
 <h2>🎯 Objetivo</h2>
 
 <p>
-    <strong>CalificAR</strong> es un sistema de <strong>gestión académica personal</strong> desarrollado en .NET MAUI. 
+    <strong>GradeSync</strong> es un sistema de <strong>gestión académica personal</strong> desarrollado en .NET MAUI. 
     Su propósito es permitir a los estudiantes llevar un control riguroso de su trayectoria educativa, administrando notas, calculando promedios de forma automática y visualizando su progreso mediante una interfaz móvil intuitiva y moderna.
 </p>
 
@@ -89,5 +89,5 @@
 <hr>
 
 <div align="center">
-    <sub>CalificAR - Herramienta de Gestión Universitaria</sub>
+    <sub>GradeSync - Herramienta de Gestión Universitaria</sub>
 </div>
