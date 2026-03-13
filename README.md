@@ -1,7 +1,7 @@
 <h1 align="center">🎓 CalificAR - Desktop</h1>
 
 <div align="center">
-    <a href="https://github.com/agussantinelli/CalificAR-Desktop" target="_blank" style="text-decoration: none;">
+    <a href="https://github.com/agussantinelli/GradeSync-Desktop" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/💻%20Repo%20Principal-CalificAR-512BD4?style=for-the-badge&logo=github&logoColor=white" alt="Repo CalificAR"/>
     </a>
     <a href="#" target="_blank" style="text-decoration: none;">
