@@ -1,0 +1,49 @@
+## Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.sln.docstates
+
+## .NET Core / .NET 10
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## MAUI / Xamarin specific
+.DS_Store
+*.suo
+*.userprefs
+*.pyc
+*.swp
+
+## Android
+*.apk
+*.aab
+*.dex
+*.class
+*.pyc
+
+## iOS / MacCatalyst
+[Dd]erivedData/
+[Aa]rchives/
+*.xcresult/
+*.ipa
+*.app
+
+## Windows (WinUI)
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+_pkginfo.txt
+
+## Databases (Para que no se suba tu base de datos de prueba)
+*.db
+*.db3
+*.localstorage
+
+## OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
