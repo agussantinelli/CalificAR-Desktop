@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Project Path="GradeSync.Desktop/GradeSync.Desktop.csproj" Id="865023b5-3333-4030-b7d0-6bf7f839a13a">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
