@@ -75,7 +75,21 @@
     </tbody>
 </table>
 
-<h2>🏗️ Estructura del Proyecto</h2>
+<h2>📂 Estructura del Proyecto</h2>
+
+<pre><code>GradeSync-Desktop/
+├── .github/                   # Workflows de CI/CD (GitHub Actions)
+├── GradeSync.Desktop/         # Proyecto principal (.NET MAUI)
+│   ├── Platforms/             # Configuraciones específicas por plataforma
+│   ├── Properties/            # Configuración de lanzamiento
+│   ├── Resources/             # Iconos, fuentes y estilos globales
+│   └── MauiProgram.cs         # Punto de entrada de la aplicación
+├── GradeSync.slnx             # Archivo de solución de Visual Studio
+├── LICENSE                    # Licencia del proyecto (GPLv3)
+└── README.md                  # Documentación y guía del usuario
+</code></pre>
+
+<h2>🏗️ Arquitectura Proyectada</h2>
 <p>La solución se organiza bajo un esquema de capas proactivo para asegurar escalabilidad:</p>
 
 <ul>
